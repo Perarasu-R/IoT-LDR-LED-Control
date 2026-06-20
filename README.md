@@ -45,7 +45,18 @@ IoT-LDR-LED-Control/
 ```
 
 ## Simulation Screenshots
-Add your screenshots here after uploading them to the `Screenshots` folder.
+
+### Circuit Diagram
+
+![Circuit](Screenshots/Circuit.jpg)
+
+### LED OFF
+
+![LED OFF](Screenshots/LED_OFF.jpg)
+
+### LED ON
+
+![LED ON](Screenshots/LED_ON.jpg)
 
 ## How to Run
 1. Open the project in Tinkercad.
